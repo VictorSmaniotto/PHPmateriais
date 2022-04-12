@@ -11,3 +11,6 @@
 
     $divisao = 123 / 48;
     echo $divisao . "<br>";
+
+    $operacao = 5 + (2 / 7) * 8;
+    echo $operacao . "<br>";
